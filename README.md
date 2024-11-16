@@ -12,11 +12,12 @@
       - Networking
          - Backend        
 
+3. Find me:
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:alicja.stefanska44@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicjastefa%C5%84ska/)
 
-Technologies I know:
+4. Technologies I know:
 
 - **Languages:**
   - ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
