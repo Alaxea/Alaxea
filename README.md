@@ -13,6 +13,7 @@
          - Backend        
 
 3. Find me:
+
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:alicja.stefanska44@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicjastefa%C5%84ska/)
