@@ -2,23 +2,26 @@
 
 ### I am student of Computer Science and Software Engineering from Warsaw, Poland.
 
-1. I’m currently learning:
+1. I’m learning:
    - C
       - C++
          - PHP
       
-2. Interested in:
+2. I'm currently working on:
+   - 🚀 The 42Core Curriculum cursus in the Warsaw campus.
+
+3. Interested in:
    - Cybersecurity
       - Networking
          - Backend        
 
-3. Find me:
+4. Find me:
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:alicja.stefanska44@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicjastefa%C5%84ska/)
 
-4. Technologies I know:
+5. Technologies I know:
 
 - **Languages:**
   - ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
