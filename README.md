@@ -31,4 +31,4 @@
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1E8BC3?style=for-the-badge&logo=cisco&logoColor=white)
-  - [CryptoTool](https://www.cryptool.org/) for cryptographic analysis and learning encryption techniques, including both classical ciphers and modern algorithms.
+  - ![CryptoTool](https://yt3.ggpht.com/a/AATXAJzjCPxo3uUlEUDLOZ6m0XIpDIVOaC04qvJS8aRN=s900-c-k-c0xffffffff-no-rj-mo) for cryptographic analysis and learning encryption techniques, including both classical ciphers and modern algorithms.
