@@ -1,4 +1,4 @@
-## Hi there, I am Alicja 👋
+## Hello world, I am Alicja 👋
 
 ### I am student of Computer Science and Software Engineering from Warsaw, Poland.
 
