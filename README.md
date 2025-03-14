@@ -1,16 +1,10 @@
-## Hello world, I am Alicja 👋
+## Hello world, I'm Alicja 👋
 
-### I am student of Computer Science and Software Engineering from Warsaw, Poland.
+Computer Science student at Vistula University<br/>
+Software Engineering student at 42 Warsaw<br/>
+I’m learning: C, C++, Python
 
-1. I’m learning:
-   - C
-      - C++
-         - Python
-      
-2. I'm currently working on:
-   - 🚀 The 42Core Curriculum cursus in the Warsaw campus.
-
-3. Interested in:
+Interested in:
    - Cybersecurity
       - Backend Dev
          - Computer networks  
