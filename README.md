@@ -12,8 +12,8 @@
 
 3. Interested in:
    - Cybersecurity
-      - Networking
-         - Backend Dev    
+      - Backend Dev
+         - Computer networks  
 
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Alaxea&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaxea&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
