@@ -1,13 +1,13 @@
 ## Hello world, I'm Alicja 👋
 
-Computer Science student at Vistula University<br/>
-Software Engineering student at 42 Warsaw<br/>
-I’m learning: C, C++, Python
+👩‍🎓 Computer Science student at Vistula University<br/>
+🧠 Software Engineering student at 42 Warsaw<br/>
+👊 I’m learning: C, C++, Python
 
 Interested in:
-   - Cybersecurity
-      - Backend Dev
-         - Computer networks  
+   🥇 Backend Dev
+      🥈 Cybersecurity
+         🥉 Computer networks  
 
 
 ## 🌐 Socials:
