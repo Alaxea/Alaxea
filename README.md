@@ -6,8 +6,8 @@
 
 Interested in:
    🥇 Backend Dev
-      🥈 Cybersecurity
-         🥉 Computer networks  
+      🥈 Cybersecurity && Computer Networks
+         🥉 DevOps
 
 
 ## 🌐 Socials:
