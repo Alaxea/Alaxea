@@ -2,7 +2,7 @@
 
 👩‍🎓 Computer Science student at Vistula University<br/>
 🧠 Software Engineering student at 42 Warsaw<br/>
-👊 I’m learning: C, C++, Python
+👊 I’m learning: C, C++, Python, Groovy
 
 Interested in:
    🥇 Backend Dev
