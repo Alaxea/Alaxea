@@ -16,7 +16,7 @@ Interested in:
 
 ## 💻 Tech Stack:
 <div align="left">
-  <img src="…dark‑blue‑hexagon‑C.svg" alt="Dark blue hexagon C logo" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/…/The_C_Programming_Language_logo.svg" alt="C logo (K&R book)" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
